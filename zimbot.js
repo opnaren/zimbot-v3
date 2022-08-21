@@ -69,9 +69,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'ZIM BOT INC'
-wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+botname = 'OP NAREN FF'
+wm = 'OP NAREN FF'
+global.reactmoji = '💯'
 limitCount = setting.limit
 
 //read database
