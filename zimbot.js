@@ -387,7 +387,7 @@ randek = jsonDrips[randIndex];
                 if (!('antilink' in chats)) chats.antilink = false
                 if (!('antilinkyt' in chats)) chats.antilinkyt = false
                 if (!('autoblock' in chats)) chats.autoblock = false
-                if (!('isWecome' in chats)) chats.isWelcome = true
+                if (!('isWecome' in chats)) chats.isWelcome = false
                 if (!('antilinkall' in chats)) chats.antilinkall = false
                 if (!('antiytchannel' in chats)) chats.antiytchannel = false
                 if (!('antitiktok' in chats)) chats.antitiktok = false
@@ -403,7 +403,7 @@ randek = jsonDrips[randIndex];
                 wame: false,
                 antilink: false,
                 antilinkyt: false,
-                isWelcome: true,
+                isWelcome: false,
                 antilinkall: false,
                 antiytchannel: false,
                 antitiktok: false,
