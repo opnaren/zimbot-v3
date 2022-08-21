@@ -403,7 +403,7 @@ randek = jsonDrips[randIndex];
                 wame: false,
                 antilink: false,
                 antilinkyt: false,
-                isWelcome: false,
+                isWelcome: true,
                 antilinkall: false,
                 antiytchannel: false,
                 antitiktok: false,
