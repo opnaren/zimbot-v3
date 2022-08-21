@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['2348144286491','']
+global.premium = ['2348144286491','']
+global.botname = 'OP NAREN FF'
+global.ownername = 'NAREN'
+global.group1 = 'https://youtu.be/Fm3XZ7MEIzg'
+global.group2 = 'https://youtu.be/Fm3XZ7MEIzg'
+global.packname = 'OP NAREN FF'
+global.ytchannel = 'https://youtu.be/Fm3XZ7MEIzg'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -71,16 +71,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
+    success: '*success👍*',
+        ban: '*Boss man, looks like u got banned😂😂 type .owner To request unban okay💯*',
+    horny: '*nsfw (porn)😂 is disabled please ask owner to enable it .You dey ment*',
+    admin: '*this cmd is for admin only , l can feel your pain so 😘REST*',
     botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
+    owner: '*this cmd is for bot owner only , l can feel your pain Dont ment with me again*',
+    group: '*this feature is only for groups okay REST*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*wait Naren bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
