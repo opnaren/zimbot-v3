@@ -145,7 +145,7 @@ let feler = pickRandom(doku)
                 var buffer = await getBuffer(ppuser)
                 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 he = `Welcome To ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-                let link = `https://youtu.be/ww4z2m3uORU`
+                let link = `https://youtu.be/Fm3XZ7MEIzg`
 let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'WELCOME'}, type: 1}
 ]
@@ -165,8 +165,8 @@ title: `Don't forget to smile today`,
 body: `OP NAREN FF `,
 mediaType:2,
 thumbnail: buffer,
-sourceUrl: https://youtu.be/Fm3XZ7MEIzg,
-mediaUrl: https://youtu.be/Fm3XZ7MEIzg,
+sourceUrl: link,
+mediaUrl: link,
 }}
 }
 ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
